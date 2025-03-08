@@ -50,3 +50,11 @@ A lightweight search engine implementation for the COL106 (Data Structures and A
 1. Clone the repository:
    ```bash
    git clone https://github.com/Plutonium17/COL106-Search-Engine.git
+2. Navigate to the project directory:
+   ```bash
+   cd COL106-Search-Engine
+3. Build the project using the provided Makefile:
+   ```bash
+   make
+
+
