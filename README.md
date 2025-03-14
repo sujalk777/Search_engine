@@ -1,6 +1,5 @@
 # Search Engine
-
-![License](https://img.shields.io/badge/License-MIT-blue)  
+  
 A lightweight search engine implementation. This project demonstrates the core functionalities of a search engine, including **indexing**, **query processing**, and **ranking** of documents based on relevance. Built using C++, the search engine utilizes advanced data structures like hash maps, tries, and heaps to efficiently handle large datasets.
 
 ---
