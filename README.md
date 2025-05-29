@@ -43,17 +43,3 @@ A lightweight search engine implementation. This project demonstrates the core f
    - Displays the top-k most relevant documents for a given query.
 
 ---
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Plutonium17/COL106-Search-Engine.git
-2. Navigate to the project directory:
-   ```bash
-   cd COL106-Search-Engine
-3. Build the project using the provided Makefile:
-   ```bash
-   make
-
-
